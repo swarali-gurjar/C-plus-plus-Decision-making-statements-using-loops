@@ -24,4 +24,49 @@ Loops are used to execute a block of code repeatedly based on a condition.
 
 **-Do while Loop** : Executes the loop body at least once, then checks the condition.
 
+## Algorithm: Username and Password Validation
 
+**Step 1** : Start
+
+**Step 2** : Declare variables:
+ - username and password as strings
+
+ - attempts as an integer and initialize it to 5
+
+**Step 3** : Prompt the user to enter the username
+
+  - Read the input and store it in the username variable
+
+**Step 4** : Repeat the following steps while attempts > 0:
+
+  - Display password format requirements:
+
+  - First letter should be a capital letter and password must include a special character @ or _
+
+  - Prompt the user to enter the password
+
+  - Read the password input
+
+**Step 5** : Check if:
+
+   - The first character of the password is a capital letter
+
+   - The password contains at least one special character: @ or _
+
+**Step 6** : If both conditions are true:
+
+    - Display “Welcome!”
+
+    - Break the loop
+
+**Step 7** : Else:
+
+     - Decrease attempts by 1
+
+     - If attempts > 0:
+
+     - Display a message indicating incorrect format and number of tries left
+
+     - Else : Display “System locked. You have exceeded the limit for today. Try again after 24 hours.”
+
+**Step 8** : End
