@@ -70,3 +70,23 @@ Loops are used to execute a block of code repeatedly based on a condition.
      - Else : Display “System locked. You have exceeded the limit for today. Try again after 24 hours.”
 
 **Step 8** : End
+
+## Algorithm for Program 06: The star pattern
+
+**Step 1** : Start
+
+**Step 2** : Declare integer variables i, j, and n
+
+**Step 3** : Set n = 5 (number of rows)
+
+**Step 4** :
+
+  Repeat for i = 1 to n (inclusive) :
+  
+   
+   a. Repeat for j = 1 to i (inclusive): Print "* " (star followed by a space)
+  
+   
+   b. Move to the next line (print newline)
+
+**Step 5** : End
