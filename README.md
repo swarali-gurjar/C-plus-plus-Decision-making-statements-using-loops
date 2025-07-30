@@ -114,3 +114,44 @@ b. Print newline
 **Step 5** : End
 
 
+## Algorithm for Hourglass star pattern:
+
+**Step 1** : Start
+
+**Step 2** : Declare integers n, i, j, k
+
+**Step 3** : Set n = 5
+
+**Step 4** : For Upper half (inverted triangle)
+  
+ 
+  Repeat for i = n down to 1
+   
+- Print (n - i) spaces
+
+- Print i stars with spaces
+
+- Move to the next line
+
+**Step 5** : For Lower half (regular triangle)
+  
+  
+  Repeat for i = 2 to n
+
+ - Print (n - i) spaces
+ 
+ - Print i stars with spaces
+ 
+ - Move to the next line
+
+**Step 6** : End
+
+## Conclusion:
+
+In this experiment, we successfully studied and implemented decision-making statements in combination with loops in C++. These constructs are fundamental for controlling the flow of a program based on certain conditions. Using if, if-else, switch, and looping structures such as for, while, and do-while, we were able to solve problems that required repetitive execution with conditional logic. This experiment enhanced our understanding of how conditional statements work with loops to build efficient, logical, and interactive programs.
+
+
+
+
+
+
