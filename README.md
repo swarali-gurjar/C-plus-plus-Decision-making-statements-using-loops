@@ -79,9 +79,7 @@ Loops are used to execute a block of code repeatedly based on a condition.
 
 **Step 3** : Set n = 5 (number of rows)
 
-**Step 4** :
-
-  Repeat for i = 1 to n (inclusive) :
+**Step 4** : Repeat for i = 1 to n (inclusive) :
   
    
    a. Repeat for j = 1 to i (inclusive): Print "* " (star followed by a space)
@@ -90,3 +88,29 @@ Loops are used to execute a block of code repeatedly based on a condition.
    b. Move to the next line (print newline)
 
 **Step 5** : End
+
+## Algorithm for Floyd's Triangle :
+
+**Step 1** : Start
+
+**Step 2** : Declare integer variables n, num, i, and j
+
+**Step 3** : Set n = 4 and num = 1
+
+**Step 4** :Repeat for i = 1 to n:
+   
+
+a. Repeat for j = 1 to i; 
+    
+
+- Print num
+     
+
+- Increment num
+  
+
+b. Print newline
+
+**Step 5** : End
+
+
