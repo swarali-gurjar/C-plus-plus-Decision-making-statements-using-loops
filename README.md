@@ -1,5 +1,8 @@
 # Decision-making-statements-using-loops
 
+# Aim: 
+To study and implement C++ Arrays and strings
+
 ## Theory:
 
 In C++, decision making and looping are fundamental control structures that help in controlling the flow of the program based on certain conditions.
