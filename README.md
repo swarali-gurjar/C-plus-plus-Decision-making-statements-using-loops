@@ -1,7 +1,7 @@
 # Decision-making-statements-using-loops
 
 # Aim: 
-To study and implement C++ Arrays and strings
+To study and implement C++ Decision making statements using loops.
 
 ## Theory:
 
