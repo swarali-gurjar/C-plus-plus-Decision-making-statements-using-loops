@@ -10,13 +10,13 @@ In C++, decision making and looping are fundamental control structures that help
 **1. Decision Making Statements** : 
 These statements are used to execute a particular block of code based on the evaluation of conditions.
 
-**-If Statement**: Executes a block of code if a specified condition is true.
+**- If Statement**: Executes a block of code if a specified condition is true.
 
-**-If-else Statement**: Executes one block if the condition is true, another if it's false.
+**- If-else Statement**: Executes one block if the condition is true, another if it's false.
 
-**-Else-if Ladder**: Used to check multiple conditions.
+**- Else-if Ladder**: Used to check multiple conditions.
 
-**-Switch Statement**: Selects one of many blocks of code to be executed.
+**- Switch Statement**: Selects one of many blocks of code to be executed.
 
 **2. Looping Statements** :
 Loops are used to execute a block of code repeatedly based on a condition.
@@ -27,7 +27,7 @@ Loops are used to execute a block of code repeatedly based on a condition.
 
 **-Do while Loop** : Executes the loop body at least once, then checks the condition.
 
-## Algorithm: Username and Password Validation
+## 1. Algorithm: Username and Password Validation
 
 **Step 1** : Start
 
@@ -74,7 +74,7 @@ Loops are used to execute a block of code repeatedly based on a condition.
 
 **Step 8** : End
 
-## Algorithm for Program 06: The star pattern
+## 2. Algorithm for Program 06: The star pattern
 
 **Step 1** : Start
 
@@ -92,7 +92,7 @@ Loops are used to execute a block of code repeatedly based on a condition.
 
 **Step 5** : End
 
-## Algorithm for Floyd's Triangle :
+## 3. Algorithm for Floyd's Triangle :
 
 **Step 1** : Start
 
@@ -117,7 +117,7 @@ b. Print newline
 **Step 5** : End
 
 
-## Algorithm for Hourglass star pattern:
+## 4. Algorithm for Hourglass star pattern:
 
 **Step 1** : Start
 
